@@ -26,8 +26,8 @@ function generatePoints(num) {
 
 function setup() {
   const canvas = createCanvas(innerWidth, innerHeight);
-  const parentElement = document.querySelector(".slides");
-  canvas.parent(parentElement);
+  // const parentElement = document.querySelector(".slides");
+  // canvas.parent(parentElement);
   generatePoints(180);
 }
 
