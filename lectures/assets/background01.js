@@ -1,5 +1,3 @@
-let centerX = innerWidth / 2;
-let centerY = innerHeight / 2;
 let points = [];
 
 class Point {
@@ -25,9 +23,7 @@ function generatePoints(num) {
 }
 
 function setup() {
-  const canvas = createCanvas(innerWidth, innerHeight);
-  // const parentElement = document.querySelector(".slides");
-  // canvas.parent(parentElement);
+  createCanvas(innerWidth, innerHeight);
   generatePoints(180);
 }
 
@@ -51,3 +47,10 @@ function draw() {
   }
   noLoop();
 }
+
+window.addEventListener("resize", () => {
+  points = [];
+  resizeCanvas(innerWidth, innerHeight);
+  generatePoints(180);
+  loop();
+});
