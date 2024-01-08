@@ -2,217 +2,217 @@
   "items": [
     {
       "url": "images/hamster1.jpg",
-      "user": { "name": "CheeseNibbler23", "url": "users/user1.jpg" },
+      "user": { "name": "CheeseNibbler23", "url": "users/user1.png" },
       "likes": 97,
       "likedByMe": true,
       "description": "Exploring new hideouts and collecting tiny treasures."
     },
     {
       "url": "images/hamster2.jpg",
-      "user": { "name": "WheelWhisker77", "url": "users/user2.jpg" },
+      "user": { "name": "WheelWhisker77", "url": "users/user2.png" },
       "likes": 148,
       "likedByMe": false,
       "description": "Running on the wheel for a cardio workout."
     },
     {
       "url": "images/hamster3.jpg",
-      "user": { "name": "TinyPawsExplorer", "url": "users/user3.jpg" },
+      "user": { "name": "TinyPawsExplorer", "url": "users/user3.png" },
       "likes": 56,
       "likedByMe": true,
       "description": "Building cozy nests with fluffy bedding."
     },
     {
       "url": "images/hamster4.jpg",
-      "user": { "name": "FluffyMuncher12", "url": "users/user4.jpg" },
+      "user": { "name": "FluffyMuncher12", "url": "users/user4.png" },
       "likes": 213,
       "likedByMe": false,
       "description": "Munching on tasty seeds and crunchy vegetables."
     },
     {
       "url": "images/hamster5.jpg",
-      "user": { "name": "SnuggleBall81", "url": "users/user5.jpg" },
+      "user": { "name": "SnuggleBall81", "url": "users/user5.png" },
       "likes": 72,
       "likedByMe": true,
       "description": "Rolling into a snuggle ball for a nap."
     },
     {
       "url": "images/hamster6.jpg",
-      "user": { "name": "CozyNestSeeker", "url": "users/user6.jpg" },
+      "user": { "name": "CozyNestSeeker", "url": "users/user6.png" },
       "likes": 126,
       "likedByMe": false,
       "description": "Burrowing into cozy bedding tunnels."
     },
     {
       "url": "images/hamster7.jpg",
-      "user": { "name": "FurryGlobeTrotter", "url": "users/user7.jpg" },
+      "user": { "name": "FurryGlobeTrotter", "url": "users/user7.png" },
       "likes": 178,
       "likedByMe": true,
       "description": "Exploring the great hamster world."
     },
     {
       "url": "images/hamster8.jpg",
-      "user": { "name": "SeedStasher44", "url": "users/user8.jpg" },
+      "user": { "name": "SeedStasher44", "url": "users/user8.png" },
       "likes": 34,
       "likedByMe": false,
       "description": "Stashing favorite seeds for later snacking."
     },
     {
       "url": "images/hamster9.jpg",
-      "user": { "name": "HamsterHiker19", "url": "users/user9.jpg" },
+      "user": { "name": "HamsterHiker19", "url": "users/user9.png" },
       "likes": 215,
       "likedByMe": true,
       "description": "Hiking through homemade cardboard mazes."
     },
     {
       "url": "images/hamster10.jpg",
-      "user": { "name": "NutNibbler55", "url": "users/user10.jpg" },
+      "user": { "name": "NutNibbler55", "url": "users/user10.png" },
       "likes": 89,
       "likedByMe": false,
       "description": "Nibbling on a variety of nuts and treats."
     },
     {
       "url": "images/hamster11.jpg",
-      "user": { "name": "TinyCheeksAdventurer", "url": "users/user11.jpg" },
+      "user": { "name": "TinyCheeksAdventurer", "url": "users/user11.png" },
       "likes": 182,
       "likedByMe": true,
       "description": "Adventuring through miniature obstacle courses."
     },
     {
       "url": "images/hamster12.jpg",
-      "user": { "name": "WhiskerWanderer88", "url": "users/user12.jpg" },
+      "user": { "name": "WhiskerWanderer88", "url": "users/user12.png" },
       "likes": 107,
       "likedByMe": false,
       "description": "Wandering and sniffing around the play area."
     },
     {
       "url": "images/hamster13.jpg",
-      "user": { "name": "FluffballExplorer", "url": "users/user13.jpg" },
+      "user": { "name": "FluffballExplorer", "url": "users/user13.png" },
       "likes": 45,
       "likedByMe": true,
       "description": "Discovering new corners and cozy spots."
     },
     {
       "url": "images/hamster14.jpg",
-      "user": { "name": "SnackScurrier27", "url": "users/user14.jpg" },
+      "user": { "name": "SnackScurrier27", "url": "users/user14.png" },
       "likes": 68,
       "likedByMe": false,
       "description": "Scurrying around in search of tasty snacks."
     },
     {
       "url": "images/hamster15.jpg",
-      "user": { "name": "CozyNookDweller", "url": "users/user15.jpg" },
+      "user": { "name": "CozyNookDweller", "url": "users/user15.png" },
       "likes": 238,
       "likedByMe": true,
       "description": "Dwelling in a snug and comfy nook."
     },
     {
       "url": "images/hamster16.jpg",
-      "user": { "name": "CheeseCraver62", "url": "users/user16.jpg" },
+      "user": { "name": "CheeseCraver62", "url": "users/user16.png" },
       "likes": 99,
       "likedByMe": false,
       "description": "Indulging in cheesy delights."
     },
     {
       "url": "images/hamster17.jpg",
-      "user": { "name": "FurryFriendSeeker", "url": "users/user17.jpg" },
+      "user": { "name": "FurryFriendSeeker", "url": "users/user17.png" },
       "likes": 183,
       "likedByMe": true,
       "description": "Seeking new hamster friends to socialize."
     },
     {
       "url": "images/hamster18.jpg",
-      "user": { "name": "SqueakyExplorer", "url": "users/user18.jpg" },
+      "user": { "name": "SqueakyExplorer", "url": "users/user18.png" },
       "likes": 127,
       "likedByMe": false,
       "description": "Exploring with occasional adorable squeaks."
     },
     {
       "url": "images/hamster19.jpg",
-      "user": { "name": "TinyPawsNomad", "url": "users/user19.jpg" },
+      "user": { "name": "TinyPawsNomad", "url": "users/user19.png" },
       "likes": 43,
       "likedByMe": true,
       "description": "Nomadic adventures across the play area."
     },
     {
       "url": "images/hamster20.jpg",
-      "user": { "name": "WhiskerJourneyer", "url": "users/user20.jpg" },
+      "user": { "name": "WhiskerJourneyer", "url": "users/user20.png" },
       "likes": 55,
       "likedByMe": false,
       "description": "Journeying through tunnels and tubes."
     },
     {
       "url": "images/hamster21.jpg",
-      "user": { "name": "CheeseTrailBlazer", "url": "users/user21.jpg" },
+      "user": { "name": "CheeseTrailBlazer", "url": "users/user21.png" },
       "likes": 211,
       "likedByMe": true,
       "description": "Blazing trails with cheese-scented markers."
     },
     {
       "url": "images/hamster22.jpg",
-      "user": { "name": "FluffExplorer99", "url": "users/user22.jpg" },
+      "user": { "name": "FluffExplorer99", "url": "users/user22.png" },
       "likes": 78,
       "likedByMe": false,
       "description": "Exploring fluff-filled landscapes."
     },
     {
       "url": "images/hamster23.jpg",
-      "user": { "name": "SeedStasher75", "url": "users/user23.jpg" },
+      "user": { "name": "SeedStasher75", "url": "users/user23.png" },
       "likes": 163,
       "likedByMe": true,
       "description": "Expertly stashing seeds in secret hideouts."
     },
     {
       "url": "images/hamster24.jpg",
-      "user": { "name": "HamsterHavenSeeker", "url": "users/user24.jpg" },
+      "user": { "name": "HamsterHavenSeeker", "url": "users/user24.png" },
       "likes": 134,
       "likedByMe": false,
       "description": "Seeking the perfect hamster haven."
     },
     {
       "url": "images/hamster25.jpg",
-      "user": { "name": "TinyPawsTrekkie", "url": "users/user25.jpg" },
+      "user": { "name": "TinyPawsTrekkie", "url": "users/user25.png" },
       "likes": 198,
       "likedByMe": true,
       "description": "Trekkie adventures through hamster territories."
     },
     {
       "url": "images/hamster26.jpg",
-      "user": { "name": "NuttyAdventurer36", "url": "users/user26.jpg" },
+      "user": { "name": "NuttyAdventurer36", "url": "users/user26.png" },
       "likes": 116,
       "likedByMe": false,
       "description": "Adventuring for the nuttiest treats."
     },
     {
       "url": "images/hamster27.jpg",
-      "user": { "name": "CheeseNibbler50", "url": "users/user27.jpg" },
+      "user": { "name": "CheeseNibbler50", "url": "users/user27.png" },
       "likes": 79,
       "likedByMe": true,
       "description": "Nibbling on a cheesy delight."
     },
     {
       "url": "images/hamster28.jpg",
-      "user": { "name": "FluffballNomad", "url": "users/user28.jpg" },
+      "user": { "name": "FluffballNomad", "url": "users/user28.png" },
       "likes": 37,
       "likedByMe": false,
       "description": "Nomadically rolling through fluffy landscapes."
     },
     {
       "url": "images/hamster29.jpg",
-      "user": { "name": "WhiskerWanderlust", "url": "users/user29.jpg" },
+      "user": { "name": "WhiskerWanderlust", "url": "users/user29.png" },
       "likes": 241,
       "likedByMe": true,
       "description": "Wandering with a touch of whisker curiosity."
     },
     {
       "url": "images/hamster30.jpg",
-      "user": { "name": "SqueakyGlobeTrotter", "url": "users/user30.jpg" },
+      "user": { "name": "SqueakyGlobeTrotter", "url": "users/user30.png" },
       "likes": 121,
       "likedByMe": false,
       "description": "Globe-trotting with occasional adorable squeaks."
     },
     {
       "url": "images/hamster31.jpg",
-      "user": { "name": "SnuggleBuddy88", "url": "users/user31.jpg" },
+      "user": { "name": "SnuggleBuddy88", "url": "users/user31.png" },
       "likes": 155,
       "likedByMe": true,
       "description": "Becoming the ultimate snuggle buddy."
