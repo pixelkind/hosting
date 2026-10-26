@@ -1,0 +1,6 @@
+[
+  { "id": 1, "text": "Go for a swim", "day": "Sat", "done": false },
+  { "id": 2, "text": "Bake bread", "day": "Sat", "done": true },
+  { "id": 3, "text": "Call grandma", "day": "Sun", "done": false },
+  { "id": 4, "text": "Visit the library", "day": "Sun", "done": false }
+]

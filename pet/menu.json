@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "apple", "emoji": "🍎", "favourite": true },
+  { "id": 2, "name": "carrot", "emoji": "🥕", "favourite": false },
+  { "id": 3, "name": "cookie", "emoji": "🍪", "favourite": true },
+  { "id": 4, "name": "cheese", "emoji": "🧀", "favourite": false },
+  { "id": 5, "name": "banana", "emoji": "🍌", "favourite": false }
+]

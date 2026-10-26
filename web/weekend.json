@@ -1,0 +1,8 @@
+{
+  "city": "Kalmar",
+  "updated": "Friday evening",
+  "days": [
+    { "day": "Sat", "icon": "☀️", "temp": 14, "summary": "Sunny all day" },
+    { "day": "Sun", "icon": "🌧️", "temp": 11, "summary": "Rain in the afternoon" }
+  ]
+}
