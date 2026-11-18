@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "NamiTheFluffyExplorer",
+      "url": "users/user1.png"
+    }
+  ],
+  "posts": [
+    {
+      "user_id": 1,
+      "url": "images/Nami-1.png",
+      "likes": 127,
+      "liked_by_user": true,
+      "description": "Chasing golden sunsets and sniffing out new adventures by the lake."
+    },
+    {
+      "user_id": 1,
+      "url": "images/Nami-2.png",
+      "likes": 98,
+      "liked_by_user": false,
+      "description": "Every paw print is a masterpiece. Getting creative in my little art studio!"
+    },
+    {
+      "user_id": 1,
+      "url": "images/Nami-3.png",
+      "likes": 214,
+      "liked_by_user": true,
+      "description": "Reporting for duty! Tiny paws, a big helmet, and an even bigger heart."
+    },
+    {
+      "user_id": 1,
+      "url": "images/Nami-4.png",
+      "likes": 183,
+      "liked_by_user": false,
+      "description": "Officer Nami is on patrol. Keeping the neighborhood safe, one sniff at a time."
+    },
+    {
+      "user_id": 1,
+      "url": "images/Nami-5.png",
+      "likes": 156,
+      "liked_by_user": false,
+      "description": "Doctor Nami is ready for the next checkup. Cuddles are always part of the treatment."
+    },
+    {
+      "user_id": 1,
+      "url": "images/Nami-6.png",
+      "likes": 172,
+      "liked_by_user": true,
+      "description": "Today's experiment: discovering the science behind the perfect tail wag."
+    },
+    {
+      "user_id": 1,
+      "url": "images/Nami-7.png",
+      "likes": 139,
+      "liked_by_user": false,
+      "description": "Nami reporting live from the city! Breaking news: everyone says I am a good dog."
+    },
+    {
+      "user_id": 1,
+      "url": "images/Nami-8.png",
+      "likes": 201,
+      "liked_by_user": true,
+      "description": "Fresh from the oven! Baking a batch of biscuits for my favorite furry friends."
+    },
+    {
+      "user_id": 1,
+      "url": "images/Nami-9.png",
+      "likes": 164,
+      "liked_by_user": false,
+      "description": "A little sunshine, a few flowers, and some muddy paws. Life in the garden is blooming!"
+    },
+    {
+      "user_id": 1,
+      "url": "images/Nami-10.png",
+      "likes": 256,
+      "liked_by_user": true,
+      "description": "Hacker mode: activated. Squashing bugs and writing code, one paw at a time."
+    }
+  ]
+}
